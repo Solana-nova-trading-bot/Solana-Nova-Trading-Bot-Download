@@ -1,0 +1,1 @@
+console.log("Solana nova trading bot is active!");
